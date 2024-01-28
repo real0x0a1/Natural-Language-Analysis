@@ -22,7 +22,7 @@
 2. Install required dependencies:
 
    ```bash
-   pip3 install opencv-python numpy
+   pip3 install nltk
    ```
 
 ## Usage
